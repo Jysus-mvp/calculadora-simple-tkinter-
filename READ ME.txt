@@ -1,1 +1,1 @@
-hola, este codigo ejecuta una calculadora simple que hice usando el modulo integrado de python Tkinter. Todo el codigo esta escrito en el lenguaje python :>
+hello, this code was made by using python and and librery called tkinter. Its a prety basic calculator so i hope you to take a look on it 
